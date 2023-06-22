@@ -1,6 +1,6 @@
 "use client"
 import { useState } from 'react';
-import styles from './navbar.module.css';
+import styles from './Navbar.module.css';
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
 import Image from 'next/image';
 import { navData } from '../../utils/Data';
